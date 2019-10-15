@@ -40,5 +40,3 @@ def get_english_meaning(yaml_file, emoticon)
   end
 end
 
-
-p get_japanese_emoticon("lib/emoticons.yml", ":)")
