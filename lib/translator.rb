@@ -39,4 +39,3 @@ def get_english_meaning(yaml_file, emoticon)
     "Sorry, that emoticon was not found"
   end
 end
-
