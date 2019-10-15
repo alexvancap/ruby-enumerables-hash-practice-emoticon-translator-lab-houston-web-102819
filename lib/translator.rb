@@ -23,7 +23,7 @@ def get_japanese_emoticon(yaml_file, emoticon)
   returned_emoticon = library["get_emoticon"][emoticon]
 
   if !!returned_emoticon
-    p returned_emoticon
+     returned_emoticon
   else
     "Sorry, that emoticon was not found"
   end
